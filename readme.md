@@ -1,10 +1,9 @@
-# Analysis Code for "Revealing Rotational Characteristics of the Uniflagellate Mutant of Chlamydomonas reinhardtii through DeepLabCut-Based Autotracking" (Manuscript under revision)
+# Analysis Code for "Revealing Rotational Characteristics of the Uniflagellate Mutant of Chlamydomonas reinhardtii through DeepLabCut-Based Autotracking" (microPublication Biology 10.17912/micropub.biology.001535)
 
-This repository contains the analysis code used in the manuscript:
+This repository contains the analysis code used in the publication:
 
-> Azusa Kage, Ken H. Nagai, Takayuki Nishizaka, Kenta Ishimoto. "Revealing Rotational Characteristics of the Uniflagellate Mutant of Chlamydomonas reinhardtii through DeepLabCut-Based Autotracking." *microPublication Biology*, under revision.
-
-The manuscript is currently under peer review.  
+> Azusa Kage, Ken H. Nagai, Takayuki Nishizaka, Kenta Ishimoto. "Revealing Rotational Characteristics of the Uniflagellate Mutant of Chlamydomonas reinhardtii through DeepLabCut-Based Autotracking." *microPublication Biology*, 10.17912/micropub.biology.001535.
+https://micropublication.org/journals/biology/micropub-biology-001535
 
 ## Contents
 
